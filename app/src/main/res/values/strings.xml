@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Telestrations</string>
+    <string name="button_online_game">Start online game</string>
+    <string name="button_offline_game">Start offline game</string>
+
+    // Strings used for Facebook SDK
+    <string name="facebook_app_id">1684032501922499</string>
+    <string name="fb_login_protocol_scheme">fb1684032501922499</string>
+
+    <string name="button_start_new_game">Start new game</string>
+    <string name="button_join_game">Join game</string>
+
+</resources>
